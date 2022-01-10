@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactOne/static/css/main.2c0da1b2.chunk.css",
+    "main.js": "/reactOne/static/js/main.ffa4fb50.chunk.js",
+    "main.js.map": "/reactOne/static/js/main.ffa4fb50.chunk.js.map",
+    "runtime-main.js": "/reactOne/static/js/runtime-main.eb2343a5.js",
+    "runtime-main.js.map": "/reactOne/static/js/runtime-main.eb2343a5.js.map",
+    "static/css/2.bede2054.chunk.css": "/reactOne/static/css/2.bede2054.chunk.css",
+    "static/js/2.618c4a07.chunk.js": "/reactOne/static/js/2.618c4a07.chunk.js",
+    "static/js/2.618c4a07.chunk.js.map": "/reactOne/static/js/2.618c4a07.chunk.js.map",
+    "index.html": "/reactOne/index.html",
+    "static/css/2.bede2054.chunk.css.map": "/reactOne/static/css/2.bede2054.chunk.css.map",
+    "static/css/main.2c0da1b2.chunk.css.map": "/reactOne/static/css/main.2c0da1b2.chunk.css.map",
+    "static/js/2.618c4a07.chunk.js.LICENSE.txt": "/reactOne/static/js/2.618c4a07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb2343a5.js",
+    "static/css/2.bede2054.chunk.css",
+    "static/js/2.618c4a07.chunk.js",
+    "static/css/main.2c0da1b2.chunk.css",
+    "static/js/main.ffa4fb50.chunk.js"
+  ]
+}
